@@ -1,6 +1,6 @@
 # CrudCliente
 
-En este proycto se realizo la funcion CRUD(Create,Read, Update, Delete) de la entidad cliente, la cual posee los atributos: Id, Nombres, Apellidos, Direccion. 
+En este proyecto se realizo la función CRUD(Create,Read, Update, Delete) de la entidad cliente, la cual posee los atributos: Id, Nombres, Apellidos, Direccion. 
 
 El proyecto se realizo en lenguaje C# a traves de la plataforma .NET
 
