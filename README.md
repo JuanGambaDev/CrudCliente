@@ -32,11 +32,11 @@ Seleccionar cliente para actualizar:
 
 Se modifican los datos en el formulario:
 
-<img src= "./ImgFuncionamiento/Update/ModificandoDatos.png.png">
+<img src= "./ImgFuncionamiento/Update/ModificandoDatos.png">
 
 Datos actualizados en la base de datos:
 
-<img src= "./ImgFuncionamiento/Update/DatosModificados.png.png">
+<img src= "./ImgFuncionamiento/Update/DatosModificados.png">
 
 ## Eliminar Cliente
 
