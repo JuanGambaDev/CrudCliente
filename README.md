@@ -15,8 +15,7 @@ La solución se manejo con una arquitectura de tres capas, las cuales cumplen la
 
 Pantalla inicial:
 
-<img src="./ImgFuncionamiento/Create/PantallaInicial.png"
-
+<img src= "./ImgFuncionamiento/Create/PantallaInicial.png">
 Formulario Agregar Cliente:
 
 <img src= "./ImgFuncionamiento/Create/AgregarDatos.png">
