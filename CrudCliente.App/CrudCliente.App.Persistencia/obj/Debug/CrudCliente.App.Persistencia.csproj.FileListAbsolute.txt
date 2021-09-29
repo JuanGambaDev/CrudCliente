@@ -1,0 +1,9 @@
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\bin\Debug\CrudCliente.App.Persistencia.dll
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\bin\Debug\CrudCliente.App.Persistencia.pdb
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\bin\Debug\CrudCliente.App.Entidades.dll
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\bin\Debug\CrudCliente.App.Entidades.pdb
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\obj\Debug\CrudCliente.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\obj\Debug\CrudCliente.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\obj\Debug\CrudCliente.App.Persistencia.csproj.CopyComplete
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\obj\Debug\CrudCliente.App.Persistencia.dll
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Persistencia\obj\Debug\CrudCliente.App.Persistencia.pdb

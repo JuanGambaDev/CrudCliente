@@ -1,0 +1,6 @@
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Entidades\bin\Debug\CrudCliente.App.Entidades.dll
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Entidades\bin\Debug\CrudCliente.App.Entidades.pdb
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Entidades\obj\Debug\CrudCliente.App.Entidades.csproj.AssemblyReference.cache
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Entidades\obj\Debug\CrudCliente.App.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Entidades\obj\Debug\CrudCliente.App.Entidades.dll
+C:\Users\juansebastiangambaja\source\repos\CrudCliente.App\CrudCliente.App.Entidades\obj\Debug\CrudCliente.App.Entidades.pdb
