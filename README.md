@@ -14,6 +14,7 @@ La solución se manejo con una arquitectura de tres capas, las cuales cumplen la
 ## Crear cliente
 
 Pantalla inicial:
+
 <img src="./ImgFuncionamiento/Create/PantallaInicial.png"
 
 Formulario Agregar Cliente:
